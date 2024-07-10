@@ -4,10 +4,11 @@ import Home from "./components/Home";
 
 export default function App() {
   return (
-    <div className="">      
-      <BrowserRouter>      
-        <Routes>
-        
+    <div className="">     
+    <Nav />  
+      <BrowserRouter>   
+         
+        <Routes>        
           <Route path="/" element={<Home /> }/>
         </Routes>
       </BrowserRouter>
