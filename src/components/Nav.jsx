@@ -28,7 +28,7 @@ const Nav = () => {
         </div>
         <div className="text-white py-3">
             <div className="flex ">
-                <a href=""><p className="px-3">Link 1</p></a>
+                <a href="#Content"><p className="px-3">Link 1</p></a>
                 <a href=""><p className="px-3">Link 1</p></a>
                 <a href=""><p className="px-3">Link 1</p></a>
                 <a href=""><p className="px-3">Link 1</p></a>

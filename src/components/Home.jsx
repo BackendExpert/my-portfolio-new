@@ -36,7 +36,9 @@ const Home = () => {
                 </div>           
             </div>
         </div>
-        <Content />
+        <section className="" id='Content'>
+            <Content />
+        </section>
 
     </div>
 
