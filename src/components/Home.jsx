@@ -9,7 +9,7 @@ const Home = () => {
         backgroundPosition: 'center',
     }
   return (
-    <div>
+    <div id='home'>
         <div className="md:grid grid-cols-2 gap-0">
             <div className="bg-gray-900 text-center text-white py-72 px-8 max-h-screen md:block hidden">
                 <div className="">
