@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import MyImg from '../assets/file.jpg'
 
 const Nav = () => {
     const [isTop, setIsTop] = useState(true);
