@@ -1,5 +1,6 @@
 import React from 'react'
 import MyImg from '../assets/file.jpg'
+import Content from './Content'
 
 const Home = () => {
     const styles = {
@@ -35,6 +36,7 @@ const Home = () => {
                 </div>           
             </div>
         </div>
+        <Content />
 
     </div>
 
