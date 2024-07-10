@@ -5,9 +5,8 @@ import Home from "./components/Home";
 export default function App() {
   return (
     <div className="">     
-    <Nav />  
-      <BrowserRouter>   
-         
+      <Nav />  
+      <BrowserRouter>            
         <Routes>        
           <Route path="/" element={<Home /> }/>
         </Routes>
