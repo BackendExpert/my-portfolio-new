@@ -24,7 +24,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="py-10 px-6 h-screen" style={styles}>    
-                <div className="text-center text-white py-72 px-8 max-h-screen md:hidden block">
+                <div className="text-center text-white py-72 md:mt-0 mt-[-150px] px-2 max-h-screen md:hidden block">
                     <h1 className="text-5xl font-bold mb-4">I am Jehan, </h1>
                     <p className="text-xl mb-8">Full Stack Web Developer </p>
                     <p className="">
