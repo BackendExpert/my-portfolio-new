@@ -34,9 +34,9 @@ const Nav = () => {
         <div className="md:hidden block text-white">
             {
                 navOpen ? 
-                    <BsList  className='h-8 w-auto mt-3'/>   
+                    <BsList  className='h-8 w-auto mt-3' />   
                 :
-                    <BsX  className='h-8 w-auto mt-3'/>   
+                    <BsX  className='h-8 w-auto mt-3' />   
 
             }                     
         </div>
