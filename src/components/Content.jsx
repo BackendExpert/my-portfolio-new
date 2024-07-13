@@ -153,10 +153,38 @@ const Content = () => {
                       <p className="px-2"><a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" target='_blank'><BsBox2Fill /></a></p>
                     </p>
 
+                  </div>
+                </div>                
+              </div>
+
+
+              <div className="bg-gray-800 py-4 px-5 rounded my-4">
+                <div className="md:flex">
+                  {/* <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
+                  <div className="ml-6">
+                    <h1 className="md:text-xl font-semibold ">The ReactJKCSS - CSS Framework</h1>
+                    <p className="">Founder and Developer</p>
+                    <p className="pb-6">
+                      2024 April - Present
+                    </p>
+                    <p className="">
+                      First React JS Support CSS Framework in Sri Lanka
+                    </p>
+
+                    <p className="">
+                      Skills : CSS, SCSS, Framework Development, ReactJS, NPM
+                    </p>
+
+                    <p className="mt-5 flex">
+                      <p className="px-2"><a href="https://github.com/React-JKCSS" target='_blank'><BsGithub /></a></p>
+                      <p className="px-2"><a href="https://www.linkedin.com/company/react-jkcss/" target='_blank'><BsLinkedin /></a></p>
+                      <p className="px-2"><a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" target='_blank'><BsBox2Fill /></a></p>
+                    </p>
 
                   </div>
                 </div>                
               </div>
+
 
             </div>
           </div>
