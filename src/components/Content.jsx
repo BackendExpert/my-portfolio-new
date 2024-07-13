@@ -126,18 +126,17 @@ const Content = () => {
                 <div className="md:flex">
                   {/* <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
                   <div className="ml-6">
-                    <h1 className="md:text-xl font-semibold ">The JKCSS - CSS Framework</h1>
+                    <h1 className="md:text-xl font-semibold ">The React-JKCSS - CSS Framework</h1>
                     <p className="">Founder CEO and Developer</p>
                     <p className="pb-6">
-                      2023 May - Present
+                      2024 April - Present
                     </p>
                     <p className="">
-                      First Utility-First Dynamic CSS Framework in Sri Lanka
+                      First React JS Support CSS Framework in Sri Lanka
                     </p>
 
-
                     <p className="">
-                      Skills : CSS, SCSS, Framework Development
+                      Skills : CSS, SCSS, Framework Development, ReactJS, NPM
                     </p>
                   </div>
                 </div>                
