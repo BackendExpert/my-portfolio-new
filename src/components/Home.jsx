@@ -36,7 +36,7 @@ const Home = () => {
                 </div>           
             </div>
         </div>
-        <section className="" id='Content'>
+        <section className="" id='About'>
             <Content />
         </section>
 

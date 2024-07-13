@@ -48,7 +48,7 @@ const Nav = () => {
         <div className={`${isTop ? 'md:backdrop-blur-none backdrop-blur-xl md:bg-none bg-white/10' : 'bg-gray-900'} text-white md:relative fixed md:w-auto w-full md:pt-6 pt-0  transform ${navOpen ? 'translate-y-0 md:my-0 my-16' : '-translate-y-full md:my-0 my-[-40px]'} transition-transform duration-300 ease-in-out md:relative md:bg-transparent md:transform-none`}>
             <div className="md:flex w-full">
                 <a href="#home"><p className="px-3 md:py-0 py-4">Home</p></a>
-                <a href="#Content"><p className="px-3 md:py-0 py-4">Link 1</p></a>
+                <a href="#About"><p className="px-3 md:py-0 py-4">About</p></a>
                 <a href=""><p className="px-3 md:py-0 py-4">Link 1</p></a>
                 <a href=""><p className="px-3 md:py-0 py-4">Link 1</p></a>
                 <a href=""><p className="px-3 md:py-0 py-4">Link 1</p></a>
