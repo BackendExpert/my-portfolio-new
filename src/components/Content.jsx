@@ -1,4 +1,5 @@
 import React from 'react'
+import SSCK from '../assets/SSCK.png'
 
 const Content = () => {
   return (
@@ -27,7 +28,7 @@ const Content = () => {
             <div className="my-4">
               <div className="bg-gray-800 py-4 px-5 rounded">
                 <div className="flex">
-                  <img src="" alt="" />
+                  <img src={SSCK} alt="" />
                 </div>
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas totam, perferendis ut debitis minus natus deleniti expedita. Ratione tempora autem dignissimos rerum eos. Voluptates, quas! Molestias dolores consectetur non porro.
               </div>
