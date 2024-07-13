@@ -39,6 +39,9 @@ const Home = () => {
         <section className="" id='About'>
             <Content />
         </section>
+        <section className="" id="Skills">
+            
+        </section>
 
     </div>
 
