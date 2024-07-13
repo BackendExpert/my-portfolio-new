@@ -45,7 +45,7 @@ const Content = () => {
 
               <div className="bg-gray-800 py-4 px-5 rounded my-4">
                 <div className="md:flex">
-                  <img src={SSCK} alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/>
+            
                   <div className="ml-6">
                     <h1 className="md:text-xl font-semibold ">Bachelor of Science in Information Technology</h1>
                     <p className="pb-4">Sri Lanka International Buddhist Academy, Kandy, Sri Lanka</p>
@@ -61,7 +61,7 @@ const Content = () => {
 
               <div className="bg-gray-800 py-4 px-5 rounded my-4">
                 <div className="md:flex">
-                  <img src={SSCK} alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/>
+
                   <div className="ml-6">
                     <h1 className="md:text-xl font-semibold ">Foundation in Bekary and Pestry</h1>
                     <p className="pb-4">Sri Lanka Institute of Tourism & Hotel Management</p>
@@ -78,9 +78,23 @@ const Content = () => {
           <div className="">
             <h1 className="text-4xl text-center font-semibold">Experience</h1>
             <div className="my-4">
-              <div className="bg-gray-800 py-4 px-5 rounded">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas totam, perferendis ut debitis minus natus deleniti expedita. Ratione tempora autem dignissimos rerum eos. Voluptates, quas! Molestias dolores consectetur non porro.
+
+              <div className="bg-gray-800 py-4 px-5 rounded my-4">
+                <div className="md:flex">
+                  <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/>
+                  <div className="ml-6">
+                    <h1 className="md:text-xl font-semibold ">St.Sylvester's College</h1>
+                    <p className="pb-4">Kandy, Sri Lanka</p>
+                    <p className="">
+                      2006 to 2020
+                    </p>
+                    <p className="">
+                      Advanced Level : Tech - 2020
+                    </p>
+                  </div>
+                </div>                
               </div>
+
             </div>
           </div>
         </div>
