@@ -1,6 +1,6 @@
 import React from 'react'
 import SSCK from '../assets/SSCK.png'
-import { BsGithub, BsGlobe } from 'react-icons/bs'
+import { BsBox2Fill, BsGithub, BsGlobe, BsLinkedin } from 'react-icons/bs'
 
 const Content = () => {
   return (
@@ -99,9 +99,9 @@ const Content = () => {
 
                     <p className="mt-5 flex">
                       <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
-                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGlobe /></a></p>
-                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
-                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
+                      <p className="px-2"><a href="https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/" target='_blank'><BsGlobe /></a></p>
+                      <p className="px-2"><a href="https://www.linkedin.com/company/jkcss/posts/?feedView=all" target='_blank'><BsLinkedin /></a></p>
+                      <p className="px-2"><a href="https://www.npmjs.com/package/@jehankandy/jkcss" target='_blank'><BsBox2Fill /></a></p>
                     </p>
 
                   </div>
@@ -145,6 +145,12 @@ const Content = () => {
 
                     <p className="">
                       Skills : CSS, SCSS, Framework Development, ReactJS, NPM
+                    </p>
+
+                    <p className="mt-5 flex">
+                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
+                      <p className="px-2"><a href="https://www.linkedin.com/company/jkcss/posts/?feedView=all" target='_blank'><BsLinkedin /></a></p>
+                      <p className="px-2"><a href="https://www.npmjs.com/package/@jehankandy/jkcss" target='_blank'><BsBox2Fill /></a></p>
                     </p>
 
 
