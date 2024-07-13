@@ -108,7 +108,7 @@ const Content = () => {
                     <p className="">Hanthana Rd, Kandy, Sri Lanka</p>
                     <p className="">Volunteer Research Assistant, Software Development Intern</p>
                     <p className="pb-6">
-                      2023 May - Present
+                      2024 Feb - Present
                     </p>
                     <p className="">
                       First Utility-First Dynamic CSS Framework in Sri Lanka
@@ -116,7 +116,7 @@ const Content = () => {
 
 
                     <p className="">
-                      Skills : CSS, SCSS, Framework Development
+                      Skills : Nodejs, Reactjs, Mysql, MongoDB, MVC, TailwindCSS
                     </p>
                   </div>
                 </div>                
