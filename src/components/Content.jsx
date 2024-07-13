@@ -1,5 +1,6 @@
 import React from 'react'
 import SSCK from '../assets/SSCK.png'
+import { BsGithub, BsGlobe } from 'react-icons/bs'
 
 const Content = () => {
   return (
@@ -92,10 +93,17 @@ const Content = () => {
                       First Utility-First Dynamic CSS Framework in Sri Lanka
                     </p>
 
-
                     <p className="">
                       Skills : CSS, SCSS, Framework Development
                     </p>
+
+                    <p className="mt-5 flex">
+                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
+                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGlobe /></a></p>
+                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
+                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
+                    </p>
+
                   </div>
                 </div>                
               </div>
@@ -138,6 +146,8 @@ const Content = () => {
                     <p className="">
                       Skills : CSS, SCSS, Framework Development, ReactJS, NPM
                     </p>
+
+
                   </div>
                 </div>                
               </div>
