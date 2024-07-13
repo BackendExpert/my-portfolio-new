@@ -134,7 +134,7 @@ const Content = () => {
                 <div className="md:flex">
                   {/* <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
                   <div className="ml-6">
-                    <h1 className="md:text-xl font-semibold ">The React-JKCSS - CSS Framework</h1>
+                    <h1 className="md:text-xl font-semibold ">The ReactJKCSS - CSS Framework</h1>
                     <p className="">Founder CEO and Developer</p>
                     <p className="pb-6">
                       2024 April - Present
@@ -148,9 +148,9 @@ const Content = () => {
                     </p>
 
                     <p className="mt-5 flex">
-                      <p className="px-2"><a href="https://github.com/JKCSS-CSS-Framework" target='_blank'><BsGithub /></a></p>
-                      <p className="px-2"><a href="https://www.linkedin.com/company/jkcss/posts/?feedView=all" target='_blank'><BsLinkedin /></a></p>
-                      <p className="px-2"><a href="https://www.npmjs.com/package/@jehankandy/jkcss" target='_blank'><BsBox2Fill /></a></p>
+                      <p className="px-2"><a href="https://github.com/React-JKCSS" target='_blank'><BsGithub /></a></p>
+                      <p className="px-2"><a href="https://www.linkedin.com/company/react-jkcss/" target='_blank'><BsLinkedin /></a></p>
+                      <p className="px-2"><a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" target='_blank'><BsBox2Fill /></a></p>
                     </p>
 
 
