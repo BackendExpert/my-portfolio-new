@@ -19,6 +19,30 @@ const Content = () => {
       <p className="py-3">
         And also, developed my own Frontend Development CSS Framework called JKCSS, it is the First CSS Framework developed in Sri Lanka, and also, I also converted it to Reactjs and called as React-JKCSS.
       </p>
+
+      <div className="my-8">
+        <div className="md:grid grid-cols-2 gap-4">
+          <div className="">
+            <h1 className="text-4xl text-center font-semibold">Education</h1>
+            <div className="my-4">
+              <div className="bg-gray-800 py-4 px-5 rounded">
+                <div className="flex">
+                  <img src="" alt="" />
+                </div>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas totam, perferendis ut debitis minus natus deleniti expedita. Ratione tempora autem dignissimos rerum eos. Voluptates, quas! Molestias dolores consectetur non porro.
+              </div>
+            </div>
+          </div>
+          <div className="">
+            <h1 className="text-4xl text-center font-semibold">Experience</h1>
+            <div className="my-4">
+              <div className="bg-gray-800 py-4 px-5 rounded">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas totam, perferendis ut debitis minus natus deleniti expedita. Ratione tempora autem dignissimos rerum eos. Voluptates, quas! Molestias dolores consectetur non porro.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }
