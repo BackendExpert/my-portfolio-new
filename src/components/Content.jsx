@@ -75,7 +75,30 @@ const Content = () => {
               </div>
 
             </div>
+
+
+            <h1 className="text-4xl text-center font-semibold my-8">Business Ownerships</h1>
+            <div className="my-4">
+
+              <div className="bg-gray-800 py-4 px-5 rounded my-4">
+                <div className="md:flex">
+                  {/* <img src={SSCK} alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
+                  <div className="ml-6">
+                    <h1 className="md:text-xl font-semibold ">JKCSS</h1>
+                    <p className="pb-4">First CSS Framework in Sri Lanka</p>
+                    <p className="">
+                      Founder and CEO
+                    </p>
+                  </div>
+                </div>                
+              </div>
+
+            </div>
           </div>
+
+
+
+          
           <div className="">
             <h1 className="text-4xl text-center font-semibold">Experience</h1>
             <div className="my-4">
