@@ -29,7 +29,7 @@ const Content = () => {
 
               <div className="bg-gray-800 py-4 px-5 rounded my-4">
                 <div className="md:flex">
-                  <img src={SSCK} alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/>
+                  {/* <img src={SSCK} alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
                   <div className="ml-6">
                     <h1 className="md:text-xl font-semibold ">St.Sylvester's College</h1>
                     <p className="pb-4">Kandy, Sri Lanka</p>
@@ -81,7 +81,7 @@ const Content = () => {
 
               <div className="bg-gray-800 py-4 px-5 rounded my-4">
                 <div className="md:flex">
-                  <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/>
+                  {/* <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
                   <div className="ml-6">
                     <h1 className="md:text-xl font-semibold ">The JKCSS - CSS Framework</h1>
                     <p className="">Founder CEO and Developer</p>
@@ -102,7 +102,7 @@ const Content = () => {
 
               <div className="bg-gray-800 py-4 px-5 rounded my-4">
                 <div className="md:flex">
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrWK2Xy0aPb4uwGsCnwn-YJuTKpLX1ptdYwACjaCvSQ&s" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/>
+                  {/* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrWK2Xy0aPb4uwGsCnwn-YJuTKpLX1ptdYwACjaCvSQ&s" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
                   <div className="ml-6">
                     <h1 className="md:text-xl font-semibold ">National Institute of Fundamental Studies (NIFS)</h1>
                     <p className="">Hanthana Rd, Kandy, Sri Lanka</p>
@@ -117,6 +117,27 @@ const Content = () => {
 
                     <p className="">
                       Skills : Nodejs, Reactjs, Mysql, MongoDB, MVC, TailwindCSS
+                    </p>
+                  </div>
+                </div>                
+              </div>
+
+              <div className="bg-gray-800 py-4 px-5 rounded my-4">
+                <div className="md:flex">
+                  {/* <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" className='h-24 rounded w-auto md:mt-2 md:ml-0 ml-6 md:mb-0 mb-6'/> */}
+                  <div className="ml-6">
+                    <h1 className="md:text-xl font-semibold ">The JKCSS - CSS Framework</h1>
+                    <p className="">Founder CEO and Developer</p>
+                    <p className="pb-6">
+                      2023 May - Present
+                    </p>
+                    <p className="">
+                      First Utility-First Dynamic CSS Framework in Sri Lanka
+                    </p>
+
+
+                    <p className="">
+                      Skills : CSS, SCSS, Framework Development
                     </p>
                   </div>
                 </div>                
