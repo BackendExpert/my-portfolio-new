@@ -1,11 +1,9 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Nav from "./components/Nav";
-import Home from "./components/Home";
+import Home from "./components/HomePage/Home";
 
 export default function App() {
   return (
     <div className="">     
-      <Nav />  
       <BrowserRouter>            
         <Routes>        
           <Route path="/" element={<Home /> }/>
