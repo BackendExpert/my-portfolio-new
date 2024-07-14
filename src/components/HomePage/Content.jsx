@@ -8,7 +8,7 @@ import Side from './Side';
 
 const Content = () => {
   return (
-    <div className="bg-gradient-to-br from-purple-600 to-blue-600 min-h-screen md:px-40 px-4">
+    <div className="bg-gradient-to-br from-purple-600 to-blue-600 w-full min-h-screen md:px-40 px-4">
         <Nav />
 
         <div className="md:flex">
@@ -16,6 +16,7 @@ const Content = () => {
                 <Side />
             </div>
         </div>
+        <Footer />
     </div>
   )
 }
